@@ -34,6 +34,9 @@
 7. **Import Data**
     ```bash
     php artisan app:import-data
+7. **Start Server**
+    ```bash
+    php artisan serve
 ## 🧪 Postman Testing Guide
 
 1. Set the request method (GET/POST/etc.)
